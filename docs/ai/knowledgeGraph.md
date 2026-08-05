@@ -1,2 +1,18 @@
-1.代码图谱构建：https://github.com/abhigyanpatwari/GitNexus
-2.自进化知识图谱构建：https://github.com/Yang-Jiashu/Doc-thinker
+# 知识图谱与知识工程
+
+本页汇总知识图谱构建与知识工程实践的参考链接，适合了解知识管理、语义网络和关联检索。
+
+## 推荐资源
+
+- [代码图谱构建](https://github.com/abhigyanpatwari/GitNexus)
+  - 该项目帮助构建代码知识图谱，用于分析仓库依赖、调用关系与代码结构。
+
+- [自进化知识图谱构建](https://github.com/Yang-Jiashu/Doc-thinker)
+  - 项目侧重于文档驱动的知识图谱演化与自动补全，适合知识库与文档搜索场景。
+
+## 参考方向
+
+- 知识抽取与表示
+- 知识图谱构建流程
+- 语义检索与关联分析
+- 领域知识管理与业务场景结合
